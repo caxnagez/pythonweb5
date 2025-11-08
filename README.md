@@ -13,7 +13,7 @@
 </h1>
 <img src="images/task4.png" alt="piano">
 
-<h1>5) кукушка</h1>
+<h1>5) куку</h1>
 <img src="images/task5.png" alt="redactor">
 
 <h1>6) ключ=значение</h1>
